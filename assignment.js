@@ -14,8 +14,8 @@ function kilometerToMeter(kilometer) {
 
 }
 
-// var result = kilometerToMeter(10);
-// console.log(result);
+//  var result = kilometerToMeter(10);
+//  console.log(result);
 
 
 
@@ -50,8 +50,8 @@ function budgetCalculator(numOfWatch, numOfMobile, numOfLaptop) {
     }
 }
 
-// var result = budgetCalculator(10, 10, 10);
-// console.log(result);
+//  var result = budgetCalculator(10, 10, 10);
+//  console.log(result);
 
 
 
@@ -94,8 +94,8 @@ function hotelCost(spendDays) {
     }
 }
 
-// var result = hotelCost(12.5);
-// console.log(result);
+//  var result = hotelCost(12.5);
+//  console.log(result);
 
 
 
@@ -129,7 +129,7 @@ function megaFriend(friends) {
     return mega;
 }
 
-// var friendsNameArray = ['Nafiz', 'Israt', 'Mehrinnnn', 'Raiannnnnnnn', 'Sumaiyaaaaaaa'];
-// var result = megaFriend(friendsNameArray);
-// console.log(result);
+//  var friendsNameArray = ['Nafiz', 'Israt', 'Mehrin', 'Raiannnnnnnn', 'Sumaiyaaaaaa'];
+//  var result = megaFriend(friendsNameArray);
+//  console.log(result);
 
